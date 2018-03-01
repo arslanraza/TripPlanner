@@ -1,5 +1,5 @@
 language: swift
 xcode_project: TripPlanner.xcworkspace
-xcode_scheme: TripPlannerTests
+xcode_scheme: TripPlanner
 osx_image: xcode9.2
 xcode_sdk: iphonesimulator10.0
