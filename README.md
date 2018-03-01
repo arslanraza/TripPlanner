@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/arslanraza/TripPlanner.svg?branch=master)](https://travis-ci.org/arslanraza/TripPlanner)
+
 # TripPlanner
 
 NSW Trip Planner
