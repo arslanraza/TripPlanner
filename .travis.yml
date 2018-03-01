@@ -3,5 +3,5 @@ xcode_project: TripPlanner.xcworkspace
 xcode_scheme: TripPlanner
 osx_image: xcode9.2
 xcode_sdk: iphonesimulator10.2
-script:
-- xcodebuild -workspace TripPlanner.xcworkspace -scheme 'TripPlanner' -destination 'platform=iOS Simulator,name=iPhone 7' test 
+#script:
+#- xcodebuild -workspace TripPlanner.xcworkspace -scheme 'TripPlanner' -destination 'platform=iOS Simulator,name=iPhone 7' test 
