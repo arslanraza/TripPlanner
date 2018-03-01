@@ -1,4 +1,4 @@
 language: objective-c
 xcode_project: TripPlanner.xcworkspace
-xcode_scheme: TripPlanner
+xcode_scheme: TripPlannerTests
 osx_image: xcode9.2
