@@ -27,7 +27,7 @@ class TripPlannerTests: XCTestCase {
   }
   
   func test_addition() {
-    XCTAssert((1 > 1))
+    XCTAssert((1 > 0))
   }
   
   func testPerformanceExample() {
