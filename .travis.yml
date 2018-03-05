@@ -5,4 +5,4 @@ osx_image: xcode9.2
 xcode_sdk: iphonesimulator11.2
 script:
 #- xcodebuild -workspace TripPlanner.xcworkspace -scheme TripPlanner -destination 'platform=iOS Simulator,name=iPhone 7' test 
-- xcodebuild -workspace TripPlanner.xcworkspace -scheme TripPlanner -sdk iphonesimulator -destination 'platform=iOS Simulator,OS=11.2,name=iPhone 7' build test | xcpretty -c --test --color
+- xcodebuild -workspace TripPlanner.xcworkspace -scheme TripPlanner -sdk iphonesimulator -destination 'platform=iOS Simulator,OS=11.2,name=iPhone 7' build test | xcpretty -c --test --color || exit 1
