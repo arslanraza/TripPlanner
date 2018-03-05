@@ -7,7 +7,7 @@ target 'TripPlanner' do
 
   # Pods for TripPlanner
   
-  pod 'Alamofire'
+  pod 'Alamofire;
   
   
   
