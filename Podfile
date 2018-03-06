@@ -6,6 +6,12 @@ target 'TripPlanner' do
   use_frameworks!
 
   # Pods for TripPlanner
+  
+  pod 'Alamofire;
+  
+  
+  
+  
 
   target 'TripPlannerTests' do
     inherit! :search_paths
